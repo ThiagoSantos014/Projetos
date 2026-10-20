@@ -1,0 +1,85 @@
+header {
+background-color: #1a1616;
+box-shadow: #574c4c;
+padding: 30px;
+width: 30%;
+margin: 0 auto;
+justify-content: center;
+border-color: rgb(96, 236, 103);
+border-radius: 2px;
+border-style: solid;
+border-bottom: none;
+}
+
+body {
+background-color: #463f3f;
+
+}
+main {
+background-color: #1a1616;
+box-shadow: #574c4c;
+padding: 30px;
+width: 30%;
+margin: 0 auto;
+justify-content: center;
+border-color: rgb(96, 236, 103);
+border-width: 2px;
+border-radius: 2px;
+border-style: solid;
+}
+
+.buttons {
+    background-color: #1a1616;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+    
+}
+.clear {
+    color: greenyellow;
+    background-color: #1a1616;
+}   
+
+.division {
+    color: greenyellow;
+    background-color: #1a1616;
+}
+.multiplication {
+    color: greenyellow;
+    background-color: #1a1616;
+}
+.addition {
+    color: greenyellow;
+    background-color: #1a1616;
+}
+.subtraction {
+    color: greenyellow;
+    background-color: #1a1616;
+}
+.equals {
+    color: greenyellow;
+    background-color: #9daaa19f;
+    grid-column: span 2;
+}
+.percent {
+    color: greenyellow;
+    background-color: #1a1616;
+}
+.backspace {
+    color: greenyellow;
+    background-color: #1a1616;
+}   
+.number {
+    color:white;
+    background-color: #1a1616;
+}
+.virgula {
+    color: greenyellow;
+    background-color: #1a1616;
+}
+input {
+    background-color: #1a1616;
+    color: greenyellow;    
+    width: 175px;
+    border-color: rgb(96, 236, 103);
+}
